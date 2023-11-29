@@ -4,7 +4,7 @@ A password generator project I created to practice programming in Python and exp
 PySide6 functionality.
 
 Features:
-- Generate passwords with all or one of the followiwng:
+- Generate passwords with all or one of the following:
   - Numbers
   - Uppercase Letters
   - Lowercase Letters
