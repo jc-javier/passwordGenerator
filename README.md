@@ -13,3 +13,7 @@ Features:
 - Copy generated password to clipboard
 - Clear clipboard
 - Hide/Show generated password
+
+To run this application:
+- Download all .py files
+- Run main.py
